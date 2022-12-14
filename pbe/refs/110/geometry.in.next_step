@@ -1,0 +1,295 @@
+# 
+# This is the geometry file that corresponds to the current relaxation step.
+# If you do not want this file to be written, set the "write_restart_geometry" flag to .false.
+#  aims_uuid : 7CDA5842-B396-4065-A37D-05A9D38E77B6                                
+# 
+lattice_vector     14.38735392      0.00000000      0.00000000
+lattice_vector      0.00000000     12.71674440      0.00000000
+lattice_vector      0.00000000      0.00000000    100.00000000
+atom       0.00000000      0.00000000      0.00000000 Cu
+  constrain_relaxation .true.
+atom       0.00000000      2.54334888      0.00000000 Cu
+  constrain_relaxation .true.
+atom       0.00000000      5.08669776      0.00000000 Cu
+  constrain_relaxation .true.
+atom       0.00000000      7.63004664      0.00000000 Cu
+  constrain_relaxation .true.
+atom       0.00000000     10.17339552      0.00000000 Cu
+  constrain_relaxation .true.
+atom       3.59683848      0.00000000      0.00000000 Cu
+  constrain_relaxation .true.
+atom       3.59683848      2.54334888      0.00000000 Cu
+  constrain_relaxation .true.
+atom       3.59683848      5.08669776      0.00000000 Cu
+  constrain_relaxation .true.
+atom       3.59683848      7.63004664      0.00000000 Cu
+  constrain_relaxation .true.
+atom       3.59683848     10.17339552      0.00000000 Cu
+  constrain_relaxation .true.
+atom       7.19367696      0.00000000      0.00000000 Cu
+  constrain_relaxation .true.
+atom       7.19367696      2.54334888      0.00000000 Cu
+  constrain_relaxation .true.
+atom       7.19367696      5.08669776      0.00000000 Cu
+  constrain_relaxation .true.
+atom       7.19367696      7.63004664      0.00000000 Cu
+  constrain_relaxation .true.
+atom       7.19367696     10.17339552      0.00000000 Cu
+  constrain_relaxation .true.
+atom      10.79051544      0.00000000      0.00000000 Cu
+  constrain_relaxation .true.
+atom      10.79051544      2.54334888      0.00000000 Cu
+  constrain_relaxation .true.
+atom      10.79051544      5.08669776      0.00000000 Cu
+  constrain_relaxation .true.
+atom      10.79051544      7.63004664      0.00000000 Cu
+  constrain_relaxation .true.
+atom      10.79051544     10.17339552      0.00000000 Cu
+  constrain_relaxation .true.
+atom      -1.79841924     -1.27167444      1.27167444 Cu
+  constrain_relaxation .true.
+atom      -1.79841924      1.27167444      1.27167444 Cu
+  constrain_relaxation .true.
+atom      -1.79841924      3.81502332      1.27167444 Cu
+  constrain_relaxation .true.
+atom      -1.79841924      6.35837220      1.27167444 Cu
+  constrain_relaxation .true.
+atom      -1.79841924      8.90172108      1.27167444 Cu
+  constrain_relaxation .true.
+atom       1.79841924     -1.27167444      1.27167444 Cu
+  constrain_relaxation .true.
+atom       1.79841924      1.27167444      1.27167444 Cu
+  constrain_relaxation .true.
+atom       1.79841924      3.81502332      1.27167444 Cu
+  constrain_relaxation .true.
+atom       1.79841924      6.35837220      1.27167444 Cu
+  constrain_relaxation .true.
+atom       1.79841924      8.90172108      1.27167444 Cu
+  constrain_relaxation .true.
+atom       5.39525772     -1.27167444      1.27167444 Cu
+  constrain_relaxation .true.
+atom       5.39525772      1.27167444      1.27167444 Cu
+  constrain_relaxation .true.
+atom       5.39525772      3.81502332      1.27167444 Cu
+  constrain_relaxation .true.
+atom       5.39525772      6.35837220      1.27167444 Cu
+  constrain_relaxation .true.
+atom       5.39525772      8.90172108      1.27167444 Cu
+  constrain_relaxation .true.
+atom       8.99209620     -1.27167444      1.27167444 Cu
+  constrain_relaxation .true.
+atom       8.99209620      1.27167444      1.27167444 Cu
+  constrain_relaxation .true.
+atom       8.99209620      3.81502332      1.27167444 Cu
+  constrain_relaxation .true.
+atom       8.99209620      6.35837220      1.27167444 Cu
+  constrain_relaxation .true.
+atom       8.99209620      8.90172108      1.27167444 Cu
+  constrain_relaxation .true.
+atom       0.00000000      0.00000000      2.54334888 Cu
+  constrain_relaxation .true.
+atom       0.00000000      2.54334888      2.54334888 Cu
+  constrain_relaxation .true.
+atom       0.00000000      5.08669776      2.54334888 Cu
+  constrain_relaxation .true.
+atom       0.00000000      7.63004664      2.54334888 Cu
+  constrain_relaxation .true.
+atom       0.00000000     10.17339552      2.54334888 Cu
+  constrain_relaxation .true.
+atom       3.59683848      0.00000000      2.54334888 Cu
+  constrain_relaxation .true.
+atom       3.59683848      2.54334888      2.54334888 Cu
+  constrain_relaxation .true.
+atom       3.59683848      5.08669776      2.54334888 Cu
+  constrain_relaxation .true.
+atom       3.59683848      7.63004664      2.54334888 Cu
+  constrain_relaxation .true.
+atom       3.59683848     10.17339552      2.54334888 Cu
+  constrain_relaxation .true.
+atom       7.19367696      0.00000000      2.54334888 Cu
+  constrain_relaxation .true.
+atom       7.19367696      2.54334888      2.54334888 Cu
+  constrain_relaxation .true.
+atom       7.19367696      5.08669776      2.54334888 Cu
+  constrain_relaxation .true.
+atom       7.19367696      7.63004664      2.54334888 Cu
+  constrain_relaxation .true.
+atom       7.19367696     10.17339552      2.54334888 Cu
+  constrain_relaxation .true.
+atom      10.79051544      0.00000000      2.54334888 Cu
+  constrain_relaxation .true.
+atom      10.79051544      2.54334888      2.54334888 Cu
+  constrain_relaxation .true.
+atom      10.79051544      5.08669776      2.54334888 Cu
+  constrain_relaxation .true.
+atom      10.79051544      7.63004664      2.54334888 Cu
+  constrain_relaxation .true.
+atom      10.79051544     10.17339552      2.54334888 Cu
+  constrain_relaxation .true.
+atom      -1.79841924     -1.27167444      3.81502332 Cu
+  constrain_relaxation .true.
+atom      -1.79841924      1.27167444      3.81502332 Cu
+  constrain_relaxation .true.
+atom      -1.79841924      3.81502332      3.81502332 Cu
+  constrain_relaxation .true.
+atom      -1.79841924      6.35837220      3.81502332 Cu
+  constrain_relaxation .true.
+atom      -1.79841924      8.90172108      3.81502332 Cu
+  constrain_relaxation .true.
+atom       1.79841924     -1.27167444      3.81502332 Cu
+  constrain_relaxation .true.
+atom       1.79841924      1.27167444      3.81502332 Cu
+  constrain_relaxation .true.
+atom       1.79841924      3.81502332      3.81502332 Cu
+  constrain_relaxation .true.
+atom       1.79841924      6.35837220      3.81502332 Cu
+  constrain_relaxation .true.
+atom       1.79841924      8.90172108      3.81502332 Cu
+  constrain_relaxation .true.
+atom       5.39525772     -1.27167444      3.81502332 Cu
+  constrain_relaxation .true.
+atom       5.39525772      1.27167444      3.81502332 Cu
+  constrain_relaxation .true.
+atom       5.39525772      3.81502332      3.81502332 Cu
+  constrain_relaxation .true.
+atom       5.39525772      6.35837220      3.81502332 Cu
+  constrain_relaxation .true.
+atom       5.39525772      8.90172108      3.81502332 Cu
+  constrain_relaxation .true.
+atom       8.99209620     -1.27167444      3.81502332 Cu
+  constrain_relaxation .true.
+atom       8.99209620      1.27167444      3.81502332 Cu
+  constrain_relaxation .true.
+atom       8.99209620      3.81502332      3.81502332 Cu
+  constrain_relaxation .true.
+atom       8.99209620      6.35837220      3.81502332 Cu
+  constrain_relaxation .true.
+atom       8.99209620      8.90172108      3.81502332 Cu
+  constrain_relaxation .true.
+atom       0.00000000      0.00000000      5.08669776 Cu
+  constrain_relaxation .true.
+atom       0.00000000      2.54334888      5.08669776 Cu
+  constrain_relaxation .true.
+atom       0.00000000      5.08669776      5.08669776 Cu
+  constrain_relaxation .true.
+atom       0.00000000      7.63004664      5.08669776 Cu
+  constrain_relaxation .true.
+atom       0.00000000     10.17339552      5.08669776 Cu
+  constrain_relaxation .true.
+atom       3.59683848      0.00000000      5.08669776 Cu
+  constrain_relaxation .true.
+atom       3.59683848      2.54334888      5.08669776 Cu
+  constrain_relaxation .true.
+atom       3.59683848      5.08669776      5.08669776 Cu
+  constrain_relaxation .true.
+atom       3.59683848      7.63004664      5.08669776 Cu
+  constrain_relaxation .true.
+atom       3.59683848     10.17339552      5.08669776 Cu
+  constrain_relaxation .true.
+atom       7.19367696      0.00000000      5.08669776 Cu
+  constrain_relaxation .true.
+atom       7.19367696      2.54334888      5.08669776 Cu
+  constrain_relaxation .true.
+atom       7.19367696      5.08669776      5.08669776 Cu
+  constrain_relaxation .true.
+atom       7.19367696      7.63004664      5.08669776 Cu
+  constrain_relaxation .true.
+atom       7.19367696     10.17339552      5.08669776 Cu
+  constrain_relaxation .true.
+atom      10.79051544      0.00000000      5.08669776 Cu
+  constrain_relaxation .true.
+atom      10.79051544      2.54334888      5.08669776 Cu
+  constrain_relaxation .true.
+atom      10.79051544      5.08669776      5.08669776 Cu
+  constrain_relaxation .true.
+atom      10.79051544      7.63004664      5.08669776 Cu
+  constrain_relaxation .true.
+atom      10.79051544     10.17339552      5.08669776 Cu
+  constrain_relaxation .true.
+atom      -1.79841924     -1.27167444      6.35837220 Cu
+  constrain_relaxation .true.
+atom      -1.79841924      1.27167444      6.35837220 Cu
+  constrain_relaxation .true.
+atom      -1.79841924      3.81502332      6.35837220 Cu
+  constrain_relaxation .true.
+atom      -1.79841924      6.35837220      6.35837220 Cu
+  constrain_relaxation .true.
+atom      -1.79841924      8.90172108      6.35837220 Cu
+  constrain_relaxation .true.
+atom       1.79841924     -1.27167444      6.35837220 Cu
+  constrain_relaxation .true.
+atom       1.79841924      1.27167444      6.35837220 Cu
+  constrain_relaxation .true.
+atom       1.79841924      3.81502332      6.35837220 Cu
+  constrain_relaxation .true.
+atom       1.79841924      6.35837220      6.35837220 Cu
+  constrain_relaxation .true.
+atom       1.79841924      8.90172108      6.35837220 Cu
+  constrain_relaxation .true.
+atom       5.39525772     -1.27167444      6.35837220 Cu
+  constrain_relaxation .true.
+atom       5.39525772      1.27167444      6.35837220 Cu
+  constrain_relaxation .true.
+atom       5.39525772      3.81502332      6.35837220 Cu
+  constrain_relaxation .true.
+atom       5.39525772      6.35837220      6.35837220 Cu
+  constrain_relaxation .true.
+atom       5.39525772      8.90172108      6.35837220 Cu
+  constrain_relaxation .true.
+atom       8.99209620     -1.27167444      6.35837220 Cu
+  constrain_relaxation .true.
+atom       8.99209620      1.27167444      6.35837220 Cu
+  constrain_relaxation .true.
+atom       8.99209620      3.81502332      6.35837220 Cu
+  constrain_relaxation .true.
+atom       8.99209620      6.35837220      6.35837220 Cu
+  constrain_relaxation .true.
+atom       8.99209620      8.90172108      6.35837220 Cu
+  constrain_relaxation .true.
+atom       0.00000008      0.00000000      7.67500343 Cu
+atom       0.00000006      2.54334895      7.67500347 Cu
+atom       0.00000005      5.08669780      7.67500352 Cu
+atom       0.00000004      7.63004658      7.67500351 Cu
+atom       0.00000006     10.17339546      7.67500347 Cu
+atom       3.59684022     -0.00000000      7.67500147 Cu
+atom       3.59684031      2.54334895      7.67500160 Cu
+atom       3.59684033      5.08669782      7.67500149 Cu
+atom       3.59684025      7.63004660      7.67500148 Cu
+atom       3.59684031     10.17339547      7.67500148 Cu
+atom       7.19367683      0.00000001      7.67500518 Cu
+atom       7.19367681      2.54334892      7.67500533 Cu
+atom       7.19367683      5.08669783      7.67500518 Cu
+atom       7.19367680      7.63004659      7.67500522 Cu
+atom       7.19367683     10.17339543      7.67500517 Cu
+atom      10.79051370      0.00000001      7.67500139 Cu
+atom      10.79051367      2.54334894      7.67500144 Cu
+atom      10.79051370      5.08669782      7.67500145 Cu
+atom      10.79051370      7.63004664      7.67500143 Cu
+atom      10.79051369     10.17339546      7.67500140 Cu
+atom      -1.79841888     -1.27167448      8.84744266 Cu
+atom      -1.79841885      1.27167447      8.84744276 Cu
+atom      -1.79841888      3.81502336      8.84744297 Cu
+atom      -1.79841890      6.35837217      8.84744311 Cu
+atom      -1.79841888      8.90172102      8.84744292 Cu
+atom       1.79841887     -1.27167447      8.84744293 Cu
+atom       1.79841886      1.27167449      8.84744278 Cu
+atom       1.79841885      3.81502339      8.84744293 Cu
+atom       1.79841890      6.35837223      8.84744294 Cu
+atom       1.79841889      8.90172108      8.84744276 Cu
+atom       5.39525820     -1.27167450      8.84744368 Cu
+atom       5.39525819      1.27167443      8.84744379 Cu
+atom       5.39525819      3.81502336      8.84744381 Cu
+atom       5.39525822      6.35837222      8.84744401 Cu
+atom       5.39525811      8.90172100      8.84744398 Cu
+atom       8.99209562     -1.27167449      8.84744364 Cu
+atom       8.99209570      1.27167447      8.84744397 Cu
+atom       8.99209562      3.81502338      8.84744384 Cu
+atom       8.99209562      6.35837220      8.84744407 Cu
+atom       8.99209570      8.90172099      8.84744394 Cu
+# 
+# What follows is the current estimated Hessian matrix constructed by the BFGS algorithm.
+# This is NOT the true Hessian matrix of the system.
+# If you do not want this information here, switch it off using the "hessian_to_restart_geometry" keyword.
+# 
+trust_radius             0.4000000060
+hessian_file

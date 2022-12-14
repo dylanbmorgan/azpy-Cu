@@ -1,0 +1,6 @@
+Full geometry optimisation energy: -9066011.6948 eV
+Surface energy: -9049257.5244 eV
+Substrate energy: -16751.4538 eV
+Adsorption energy: -2.7165 eV
+Adsorption energy per substrate C: -169.783 meV
+Interaction energy: -2.7558 eV

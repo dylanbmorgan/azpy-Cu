@@ -1,0 +1,24 @@
+
+ Atom | Adsorption Height (Å) 
+ -----|----------------------
+  C   | 2.128159420000001
+  C   | 2.0701292799999997
+  C   | 2.072240090000001
+  C   | 2.053215420000001
+  C   | 2.0538647599999997
+  C   | 2.339647490000001
+  C   | 2.3376804399999997
+  C   | 1.89074003
+  C   | 1.8911564800000011
+  C   | 2.3632869700000008
+  C   | 2.35931259
+  C   | 2.0815695099999996
+  C   | 2.07974808
+  C   | 2.154586
+  C   | 2.152843670000001
+  C   | 2.207809770000001
+
+Hypothetical unrelaxed bulk height: 8.9017 Å
+Weighted average atomic adsorption height: 2.1282 Å
+Theoretically measured weighted average substrate height: 6.7736 Å
+Substrate strain: 0.4725 Å
